@@ -1,0 +1,22 @@
+{
+    "Games": [
+        {
+            "id": 1,
+            "Game": "Leauge of legends",
+            "Release": 2008,
+            "Platform": "Steam"
+        },
+        {
+            "id":2,
+            "Game": "Arma 3",
+            "Release": 2013,
+            "Platform": "Steam"
+        },
+        {
+            "id": 3,
+            "Game": "Grand theft auto 5",
+            "Release": 2013,
+            "Platform": "Rockstar Games Launcher"
+        }
+    ]
+}
